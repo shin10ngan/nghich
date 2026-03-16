@@ -5,7 +5,7 @@ function App() {
 return (
 <div class="bg bg-info">
 
-    có con cật node
+    có con cật node nha
 </div>
 );
 }
