@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 return (
-<div>
+<div class="bg bg-info">
   <table class="border+border={2}">
     <tr>
       <th>stt</th>
