@@ -5,7 +5,8 @@ function App() {
 return (
 <div class="bg bg-info">
 
-    đẹp trai
+    hết tiền 
+
 </div>
 );
 }
