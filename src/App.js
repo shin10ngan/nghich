@@ -5,8 +5,12 @@ function App() {
 return (
 <div class="bg bg-info">
 
+<<<<<<< HEAD
     hết tiền 
 
+=======
+    có con cật node nha
+>>>>>>> nhanh-2
 </div>
 );
 }
