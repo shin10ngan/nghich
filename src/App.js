@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 return (
 <div>
-  <table class="border={2}">
+  <table class="border+border={2}">
     <tr>
       <th>stt</th>
       <th>msv</th>
